@@ -53,4 +53,5 @@ bqplot
 ipympl
 ipyvolume
 scipy
-voila
+fastai
+fastbook
